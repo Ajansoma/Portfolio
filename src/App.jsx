@@ -1,4 +1,5 @@
 import AboutMe from './Components/AboutMe';
+import ContactMe from './Components/ContactMe';
 import Header from './Components/Header';
 import MyPortfolio from './Components/MyPortfolio';
 import Navbar from './Components/Navbar';
@@ -12,6 +13,7 @@ function App() {
       <AboutMe />
       <MyPortfolio />
       <Technologies />
+      <ContactMe />
     </>
   );
 }

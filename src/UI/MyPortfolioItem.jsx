@@ -34,14 +34,3 @@ const MyPortfolioItem = (props) => {
 };
 
 export default MyPortfolioItem;
-
-//"https://github.com/Ajansoma"
-//"https://freelance-frontend-81f3.onrender.com"
-// Designed and Implemented a product that enables seamless buying and
-// <br />
-// selling of freelance services, essential features such as user
-// <br />
-// authentication and a rating system to foster trust and accountability
-// <br />
-// using the technologies of React, NodeJs, Express, MongoDb, Tailwind.
-// <br />

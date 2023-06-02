@@ -5,8 +5,10 @@ import MyPortfolioItem from '../UI/MyPortfolioItem';
 
 const MyPortfolio = () => {
   return (
-    <div className="px-40 pb-16 mt-32">
-      <h3 className="text-pink-400 text-xl font-bold pb-8">My Portfolio</h3>
+    <div className="px-40 pb-16 mt-24">
+      <h3 className="text-pink-400 text-xl font-bold pb-8 uppercase">
+        My Portfolio
+      </h3>
       <MyPortfolioItem
         className="flex items-center gap-24"
         img={fiverrImg}
